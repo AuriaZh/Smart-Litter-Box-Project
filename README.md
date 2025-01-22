@@ -13,5 +13,8 @@ This is a smart litter box designed for cats with diabetes. It aims to help owne
 # Display Device
 ![General Sketch](images/Sketch3.png)
 
+# System Communication Diagram
+![General Sketch](images/Sketch5.png)
+
 # Detailed Diagram
 ![General Sketch](images/Sketch4.png)
