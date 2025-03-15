@@ -46,4 +46,15 @@ Fusion Link: https://a360.co/4hFX8mK
 ![General Sketch](images/Litterbox_3D_rander1.png)
 ![General Sketch](images/Litterbox_3D_rander2.png)
 
+# Prototyping
+3D printed devices
+![General Sketch](images/3D_Print_enclosure.JPG)
+
+# Final Product
+![General Sketch](images/Final1.JPG)
+![General Sketch](images/Final2.JPG)
+
+# Working Video
+Youtube Link: https://youtu.be/_8Va8JSGBe8
+
 
