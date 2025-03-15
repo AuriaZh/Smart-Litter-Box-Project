@@ -32,3 +32,6 @@ PCB Design
 
 Soldered PCB
 ![General Sketch](images/PCB.png)
+
+# 3D modeling
+Fusion Link: https://a360.co/4hFX8mK
