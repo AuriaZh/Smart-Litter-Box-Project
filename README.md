@@ -23,12 +23,12 @@ This System Diagram represents the Smart Litter Box for Diabetic Cats. The load 
 
 # Critical Components & PCB
 Schematic diagram
-![General Sketch](images/Display_PCB_Schematic)
-![General Sketch](images/Sensor_PCB_Schematic)
+![General Sketch](images/Display_PCB_Schematic.png)
+![General Sketch](images/Sensor_PCB_Schematic.png)
 
 PCB Design
-![General Sketch](images/Display_PCB_Design)
-![General Sketch](images/Sensor_PCB_Design)
+![General Sketch](images/Display_PCB_Design.png)
+![General Sketch](images/Sensor_PCB_Design.png)
 
 Soldered PCB
 ![General Sketch](images/PCB.png)
