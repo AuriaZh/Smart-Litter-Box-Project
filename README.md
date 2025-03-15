@@ -35,3 +35,15 @@ Soldered PCB
 
 # 3D modeling
 Fusion Link: https://a360.co/4hFX8mK
+
+3D model enclosure for sensor device
+![General Sketch](images/Sensor_enclosure.png)
+
+3D model enclosure for display device
+![General Sketch](images/Display_enclosure.png)
+
+# Litter box 3D Render
+![General Sketch](images/Litterbox_3D_rander1.png)
+![General Sketch](images/Litterbox_3D_rander2.png)
+
+
