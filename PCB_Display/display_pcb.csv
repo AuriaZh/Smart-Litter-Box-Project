@@ -1,7 +1,0 @@
-"#","Reference","Qty","Value","Footprint","DNP"
-"1","A1","1","A4988","Module:Pololu_Breakout-16_15.2x20.3mm",""
-"2","D1","1","LED","LED_SMD:LED_0603_1608Metric",""
-"3","Gauge_Needle1","1","Stepper_Motor_Gauge","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical",""
-"4","R1","1","R-330Ohm","Resistor_SMD:R_0805_2012Metric",""
-"5","SW1","1","Power Switch","Button_Switch_SMD:Nidec_Copal_CAS-120A",""
-"6","U1","1","ESP32-WROOM-32","RF_Module:ESP32-WROOM-32",""
