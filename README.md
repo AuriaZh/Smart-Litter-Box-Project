@@ -51,7 +51,7 @@ Fusion Link: https://a360.co/4hFX8mK
 ![General Sketch](images/3D_Print_enclosure.JPG)
 
 # Final Product
-![General Sketch](images/Final1.JPG)
+![General Sketch](images/Final1.jpeg)
 ![General Sketch](images/Final2.JPG)
 
 # Working Video
